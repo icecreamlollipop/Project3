@@ -3,11 +3,13 @@ import java.util.*;
 import Roll.*;
 import Store.*;
 
-public class Business implements Order{
-	public CustomerType type() {return CustomerType.BUSINESS;}
+/*
+ * This implements the OrderingStrategy class to provide a strategy for customers
+ */
+public class TwoOfEachOrNothing implements OrderingStrategy {
 	public Map<RollType,Integer> initialOrder() {
 		Map<RollType,Integer> ans = new HashMap<RollType,Integer>();
-		Inventory.set_map(ans, 2);
+		RollType.set_map(ans, 2);
 		return ans;
 	}
 	public Map<RollType,Integer> shortageOrder(Inventory inventory) {

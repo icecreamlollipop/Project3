@@ -11,7 +11,7 @@ public class Store{
 	double totalMoney = 0;
 	public Store() {
 		inventory = new Inventory();
-		orders = new OrdersForDay();
+		//orders = new OrdersForDay();
 		RollType.set_map(numSold, 0);
 	}
 	
@@ -25,11 +25,12 @@ public class Store{
 	
 	public void runDay() {	// run store for a day
 		inventory.init();
+		orders = new OrdersForDay();
 		orders.init();
 		orders.runDay(inventory);
 		System.out.println("\n");
-		inventory.print(); // print how much things are left in the inventory after the day is over
 		orders.daySummary();
+		inventory.print(); // print how much things are left in the inventory after the day is over
 		updateMonthStats();
 	}
 	

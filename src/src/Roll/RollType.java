@@ -7,6 +7,9 @@ public enum RollType {
 		Random r = new Random();
 		return values()[r.nextInt(values().length)];
 	}
+	/*
+	 * A factory for creating rolls
+	 */
 	public static Roll factory_create(RollType rt) {
 		switch (rt) {
 		case EGG: return new Egg();

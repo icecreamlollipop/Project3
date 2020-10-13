@@ -1,5 +1,8 @@
 package Roll;
 
+/*
+ * A concrete decorator for Roll
+ */
 public class Toppings extends Extras{
 
 	public Toppings(Roll roll) {
@@ -8,7 +11,7 @@ public class Toppings extends Extras{
 	
 	public double cost() {
 		double added;
-		switch(type()) {
+		switch(type()) { // different cost depending on type
 		case JELLY: added = 0.15; break;
 		case EGG: added = 0.24; break;
 		case SPRING: added = 0.33; break;

@@ -1,5 +1,8 @@
 package Roll;
 
+/*
+ * A decorator abstract class for Roll.
+ */
 public abstract class Extras implements Roll{
 	
 	protected Roll roll;

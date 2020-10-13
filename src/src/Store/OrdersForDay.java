@@ -6,12 +6,13 @@ import Order.*;
 import java.util.*;
 import Roll.*;
 
+
 public class OrdersForDay{
 	int numCatering;
 	int numBusiness;
 	int numCasual;
 	int numCustomers;
-	ArrayList<Order> orderArr = new ArrayList<Order>();
+	ArrayList<Customer> orderArr = new ArrayList<Customer>();
 	Map<RollType, Integer> numSold = new HashMap<RollType, Integer>();
 	double totalCost = 0;
 	int shortageImpacts = 0;
@@ -68,26 +69,28 @@ public class OrdersForDay{
 		
 		for (int i=0;i<numCustomers;i++) {
 			System.out.println();
-			
-			Order orderer = orderArr.get(i);
+			// get customer and print basic order info
+			Customer orderer = orderArr.get(i);
 			System.out.println("Order number: "+(i+1));
 			System.out.println("Customer type: "+orderer.type());
+			
+			// get order
 			Map<RollType,Integer> order = orderer.initialOrder();
-			if (!inv.canFulfill(order)) {
+			if (!inv.canFulfill(order)) { // there is a shortage
 				order = orderer.shortageOrder(inv);
 				increment(shortages,orderer.type(),1);
 				shortageImpacts++;
 			}
 			
+			// create list of rolls
 			List<Roll> rolls = new ArrayList<Roll>();
 			for (RollType rt : order.keySet()) {
 				for (int j=0;j<order.get(rt);j++) {
 					increment(numSold,rt,1);
 					totalSold++;
 					Roll r = RollType.factory_create(rt);
-					increment(inv.numLeft, rt, -1);
+					// add decorators and print
 					System.out.print(" > "+rt);
-					// add decorators
 					int numSauces = RNG.nextInt(4);
 					int numFillings = RNG.nextInt(2);
 					int numToppings = RNG.nextInt(3);
@@ -103,15 +106,22 @@ public class OrdersForDay{
 						System.out.print(" (+topping)");
 						r = new Toppings(r);
 					}
-					rolls.add(r);
 					System.out.println();
+					// add the roll
+					rolls.add(r);
+					// check for outage
+					increment(inv.numLeft, rt, -1);
+					if (inv.numLeft.get(rt) == 0) {
+						System.out.println(">>> Ran out of roll of type "+rt);
+					}
 				}
 			}
+			// update costs
 			double cost = calculate_cost(rolls);
 			System.out.println("Cost of order: "+cost);
 			payments.put(orderer.type(), payments.get(orderer.type())+cost);
 			totalCost += cost;
-			
+			// no rolls left
 			if (inv.totalNumLeft() == 0) {
 				System.out.println("Store closed because there's nothing left");
 				shortageClosed = true;

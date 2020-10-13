@@ -11,14 +11,9 @@ public class Inventory{
 	public Map<RollType,Integer> numLeft = new HashMap<RollType,Integer>();
 	boolean inventoryOut;
 	static final Random RNG = new Random();
-	public static void set_map(Map<RollType,Integer> map,int num) {
-		for (RollType rt : RollType.values()) {
-			map.put(rt, num);
-		}
-	}
 	public Inventory() {	// constructor
 		inventoryOut = false;
-		set_map(numLeft,0);
+		RollType.set_map(numLeft,0);
 	}
 	
 	public void init() {	// initialize inventory and print contents
@@ -61,7 +56,7 @@ public class Inventory{
 	}
 	public Map<RollType,Integer> randomSubset(int max) {
 		Map<RollType,Integer> ans = new HashMap<RollType,Integer>();
-		set_map(ans,0);
+		RollType.set_map(ans,0);
 		int num_added = 0;
 		while (num_added<max && totalNumLeft()>num_added) {
 			RollType rt = RollType.random();

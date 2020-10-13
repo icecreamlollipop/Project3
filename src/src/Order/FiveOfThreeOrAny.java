@@ -5,7 +5,10 @@ import java.util.*;
 import Roll.*;
 import Store.*;
 
-public class Catering implements Order{
+/*
+ * This implements the OrderingStrategy class to provide a strategy for customers
+ */
+public class FiveOfThreeOrAny implements OrderingStrategy {
 	
 	int t;
 	public CustomerType type() {return CustomerType.CATERING;}

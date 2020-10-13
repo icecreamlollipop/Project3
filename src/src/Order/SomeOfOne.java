@@ -3,7 +3,10 @@ import java.util.*;
 import Roll.*;
 import Store.*;
 
-public class Casual implements Order{
+/*
+ * This implements the OrderingStrategy class to provide a strategy for customers
+ */
+public class SomeOfOne implements OrderingStrategy {
 	static final Random RNG = new Random();
 	int numRolls;
 	RollType rt;

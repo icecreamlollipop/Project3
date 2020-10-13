@@ -1,12 +1,14 @@
 package Order;
+
 import java.util.*;
+
 import Roll.*;
 import Store.*;
 
-public interface Order{
-	// total cost
-	// customer type
-	public CustomerType type();
+/*
+ * This uses the Strategy pattern to provide ordering strategies to customers
+ */
+public interface OrderingStrategy {
 	public Map<RollType,Integer> initialOrder();
 	public Map<RollType,Integer> shortageOrder(Inventory inventory);
 }
