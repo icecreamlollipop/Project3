@@ -1,0 +1,3265 @@
+Start the business.=========================
+============================================
+
+
+ Day 1 ====================================
+============================================
+
+EGG rolls left: 45
+JELLY rolls left: 45
+PASTRY rolls left: 45
+SAUSAGE rolls left: 45
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: BUSINESS
+ > JELLY (+topping)
+ > JELLY (+sauce) (+sauce)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce)
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 38.809999999999995
+
+Order number: 2
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 5.9300000000000015
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+topping) (+topping)
+Cost of order: 8.77
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+topping)
+Cost of order: 4.65
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+Cost of order: 3.3600000000000003
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+Cost of order: 8.379999999999999
+
+Order number: 7
+Customer type: CASUAL
+ > EGG (+filling)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 5.780000000000001
+
+Order number: 8
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce)
+Cost of order: 6.88
+
+Order number: 9
+Customer type: CATERING
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce)
+ > EGG
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling)
+Cost of order: 44.3
+
+Order number: 10
+Customer type: CASUAL
+ > JELLY (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 3.34
+
+Order number: 11
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 3.3700000000000006
+
+Order number: 12
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 59.18000000000002
+
+Order number: 13
+Customer type: CASUAL
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 13.67
+
+Order number: 14
+Customer type: CASUAL
+ > JELLY (+filling)
+Cost of order: 1.33
+
+
+DAY SUMMARY
+Payments from customers: 207.75 total
+ > BUSINESS: 38.809999999999995
+ > CASUAL: 65.46
+ > CATERING: 103.48000000000002
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 58 total
+ > EGG: 14
+ > JELLY: 19
+ > PASTRY: 10
+ > SAUSAGE: 4
+ > SPRING: 11
+Store did not close due to shortage
+EGG rolls left: 31
+JELLY rolls left: 26
+PASTRY rolls left: 35
+SAUSAGE rolls left: 41
+SPRING rolls left: 34
+
+
+ Day 2 ====================================
+============================================
+
+EGG rolls left: 31
+JELLY rolls left: 26
+PASTRY rolls left: 35
+SAUSAGE rolls left: 41
+SPRING rolls left: 34
+
+Order number: 1
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+topping)
+ > SPRING (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce)
+Cost of order: 41.24
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > JELLY (+filling) (+topping)
+Cost of order: 3.1400000000000006
+
+Order number: 3
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+ > PASTRY (+filling)
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 73.25999999999999
+
+Order number: 4
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 15.239999999999998
+
+Order number: 5
+Customer type: BUSINESS
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+topping)
+ > SPRING (+filling)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 41.71
+
+Order number: 6
+Customer type: CASUAL
+ > PASTRY (+topping)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 13.04
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 14.7
+
+
+DAY SUMMARY
+Payments from customers: 202.32999999999998 total
+ > BUSINESS: 82.95
+ > CASUAL: 46.12
+ > CATERING: 73.25999999999999
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 43 total
+ > EGG: 9
+ > JELLY: 6
+ > PASTRY: 15
+ > SAUSAGE: 4
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 22
+JELLY rolls left: 20
+PASTRY rolls left: 20
+SAUSAGE rolls left: 37
+SPRING rolls left: 25
+
+
+ Day 3 ====================================
+============================================
+
+EGG rolls left: 22
+JELLY rolls left: 20
+PASTRY rolls left: 20
+SAUSAGE rolls left: 37
+SPRING rolls left: 25
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+topping)
+Cost of order: 5.74
+
+Order number: 2
+Customer type: CATERING
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+topping)
+ > SPRING (+sauce) (+filling)
+ > SAUSAGE (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+filling) (+topping)
+ > EGG (+filling)
+Cost of order: 64.29
+
+Order number: 3
+Customer type: BUSINESS
+ > JELLY (+filling)
+ > JELLY (+sauce) (+sauce)
+ > SPRING (+sauce)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+filling)
+ > EGG (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 41.45
+
+Order number: 4
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE
+ > SAUSAGE (+topping)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY
+ > PASTRY (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 80.41000000000001
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+topping)
+ > EGG (+sauce)
+Cost of order: 4.92
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 11.460000000000003
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 14.69
+
+Order number: 8
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce)
+Cost of order: 3.89
+
+
+DAY SUMMARY
+Payments from customers: 226.85 total
+ > BUSINESS: 41.45
+ > CASUAL: 40.7
+ > CATERING: 144.70000000000002
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 48 total
+ > EGG: 9
+ > JELLY: 2
+ > PASTRY: 10
+ > SAUSAGE: 14
+ > SPRING: 13
+Store did not close due to shortage
+EGG rolls left: 13
+JELLY rolls left: 18
+PASTRY rolls left: 10
+SAUSAGE rolls left: 23
+SPRING rolls left: 12
+
+
+ Day 4 ====================================
+============================================
+
+EGG rolls left: 13
+JELLY rolls left: 18
+PASTRY rolls left: 10
+SAUSAGE rolls left: 23
+SPRING rolls left: 12
+
+Order number: 1
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 3.0900000000000007
+
+Order number: 2
+Customer type: CATERING
+ > SPRING (+filling) (+topping)
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > EGG (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping)
+ > EGG (+sauce)
+ > EGG (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+topping)
+Cost of order: 71.32
+
+Order number: 3
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 11.060000000000002
+
+Order number: 4
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 43.89
+
+
+DAY SUMMARY
+Payments from customers: 129.36 total
+ > BUSINESS: 43.89
+ > CASUAL: 14.150000000000002
+ > CATERING: 71.32
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 28 total
+ > EGG: 8
+ > JELLY: 2
+ > PASTRY: 7
+ > SAUSAGE: 4
+ > SPRING: 7
+Store did not close due to shortage
+EGG rolls left: 5
+JELLY rolls left: 16
+PASTRY rolls left: 3
+SAUSAGE rolls left: 19
+SPRING rolls left: 5
+
+
+ Day 5 ====================================
+============================================
+
+EGG rolls left: 5
+JELLY rolls left: 16
+PASTRY rolls left: 3
+SAUSAGE rolls left: 19
+SPRING rolls left: 5
+
+Order number: 1
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+>>> Ran out of roll of type SPRING
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+topping) (+topping)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+>>> Ran out of roll of type EGG
+Cost of order: 61.129999999999995
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 1.86
+
+Order number: 3
+Customer type: CATERING
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+topping)
+ > JELLY
+ > JELLY (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling)
+>>> Ran out of roll of type PASTRY
+Cost of order: 61.26000000000001
+
+Order number: 4
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+topping)
+Cost of order: 3.34
+
+
+DAY SUMMARY
+Payments from customers: 127.59 total
+ > BUSINESS: 0.0
+ > CASUAL: 5.2
+ > CATERING: 122.39000000000001
+Roll shortages: 2 total
+ > BUSINESS: 1
+ > CASUAL: 0
+ > CATERING: 1
+Total orders: 33 total
+ > EGG: 5
+ > JELLY: 9
+ > PASTRY: 3
+ > SAUSAGE: 11
+ > SPRING: 5
+Store did not close due to shortage
+EGG rolls left: 0
+JELLY rolls left: 7
+PASTRY rolls left: 0
+SAUSAGE rolls left: 8
+SPRING rolls left: 0
+
+
+ Day 6 ====================================
+============================================
+
+EGG rolls left: 45
+JELLY rolls left: 7
+PASTRY rolls left: 45
+SAUSAGE rolls left: 8
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 6.8
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+sauce) (+filling)
+ > JELLY (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 42.510000000000005
+
+Order number: 3
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce)
+ > JELLY (+sauce) (+topping)
+>>> Ran out of roll of type JELLY
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING
+ > SPRING (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 56.50000000000001
+
+
+DAY SUMMARY
+Payments from customers: 105.81 total
+ > BUSINESS: 42.510000000000005
+ > CASUAL: 6.8
+ > CATERING: 56.50000000000001
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 26 total
+ > EGG: 2
+ > JELLY: 7
+ > PASTRY: 3
+ > SAUSAGE: 7
+ > SPRING: 7
+Store did not close due to shortage
+EGG rolls left: 43
+JELLY rolls left: 0
+PASTRY rolls left: 42
+SAUSAGE rolls left: 1
+SPRING rolls left: 38
+
+
+ Day 7 ====================================
+============================================
+
+EGG rolls left: 43
+JELLY rolls left: 45
+PASTRY rolls left: 42
+SAUSAGE rolls left: 1
+SPRING rolls left: 38
+
+Order number: 1
+Customer type: CATERING
+ > JELLY
+ > JELLY (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+filling)
+ > SAUSAGE (+sauce) (+topping)
+>>> Ran out of roll of type SAUSAGE
+ > EGG (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+filling)
+ > EGG
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+topping)
+ > PASTRY (+sauce)
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 64.08000000000001
+
+Order number: 2
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+topping)
+ > JELLY
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce)
+ > SPRING (+filling)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY
+Cost of order: 42.760000000000005
+
+Order number: 3
+Customer type: CASUAL
+ > JELLY (+sauce)
+ > JELLY (+topping) (+topping)
+Cost of order: 2.87
+
+Order number: 4
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 7.8999999999999995
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 3.2600000000000007
+
+Order number: 6
+Customer type: BUSINESS
+Cost of order: 0.0
+
+
+DAY SUMMARY
+Payments from customers: 120.87000000000003 total
+ > BUSINESS: 0.0
+ > CASUAL: 14.030000000000001
+ > CATERING: 106.84000000000002
+Roll shortages: 4 total
+ > BUSINESS: 1
+ > CASUAL: 1
+ > CATERING: 2
+Total orders: 35 total
+ > EGG: 8
+ > JELLY: 12
+ > PASTRY: 7
+ > SAUSAGE: 1
+ > SPRING: 7
+Store did not close due to shortage
+EGG rolls left: 35
+JELLY rolls left: 33
+PASTRY rolls left: 35
+SAUSAGE rolls left: 0
+SPRING rolls left: 31
+
+
+ Day 8 ====================================
+============================================
+
+EGG rolls left: 35
+JELLY rolls left: 33
+PASTRY rolls left: 35
+SAUSAGE rolls left: 45
+SPRING rolls left: 31
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+filling) (+topping) (+topping)
+Cost of order: 6.75
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > JELLY (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 45.34
+
+Order number: 3
+Customer type: CATERING
+ > SPRING (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SPRING (+filling)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 82.42
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+Cost of order: 11.460000000000003
+
+Order number: 5
+Customer type: CASUAL
+ > SAUSAGE (+filling) (+topping) (+topping)
+Cost of order: 5.470000000000001
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+topping)
+Cost of order: 5.090000000000001
+
+Order number: 7
+Customer type: CASUAL
+ > SPRING
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 7.779999999999999
+
+Order number: 8
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 14.69
+
+
+DAY SUMMARY
+Payments from customers: 179.0 total
+ > BUSINESS: 45.34
+ > CASUAL: 51.239999999999995
+ > CATERING: 82.42
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 34 total
+ > EGG: 2
+ > JELLY: 2
+ > PASTRY: 10
+ > SAUSAGE: 11
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 33
+JELLY rolls left: 31
+PASTRY rolls left: 25
+SAUSAGE rolls left: 34
+SPRING rolls left: 22
+
+
+ Day 9 ====================================
+============================================
+
+EGG rolls left: 33
+JELLY rolls left: 31
+PASTRY rolls left: 25
+SAUSAGE rolls left: 34
+SPRING rolls left: 22
+
+Order number: 1
+Customer type: CASUAL
+ > SPRING (+sauce)
+Cost of order: 3.56
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+filling)
+ > JELLY (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+topping)
+ > EGG (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+filling)
+ > PASTRY
+ > PASTRY (+sauce) (+sauce) (+topping)
+Cost of order: 39.45
+
+Order number: 3
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 3.130000000000001
+
+Order number: 4
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+filling)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+filling) (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+topping) (+topping)
+Cost of order: 41.540000000000006
+
+Order number: 5
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce)
+ > PASTRY (+sauce)
+ > PASTRY (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+Cost of order: 62.43
+
+Order number: 6
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+filling)
+Cost of order: 13.030000000000001
+
+
+DAY SUMMARY
+Payments from customers: 163.14000000000001 total
+ > BUSINESS: 80.99000000000001
+ > CASUAL: 19.720000000000002
+ > CATERING: 62.43
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 39 total
+ > EGG: 5
+ > JELLY: 9
+ > PASTRY: 11
+ > SAUSAGE: 4
+ > SPRING: 10
+Store did not close due to shortage
+EGG rolls left: 28
+JELLY rolls left: 22
+PASTRY rolls left: 14
+SAUSAGE rolls left: 30
+SPRING rolls left: 12
+
+
+ Day 10 ====================================
+============================================
+
+EGG rolls left: 28
+JELLY rolls left: 22
+PASTRY rolls left: 14
+SAUSAGE rolls left: 30
+SPRING rolls left: 12
+
+Order number: 1
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+topping)
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling)
+Cost of order: 63.839999999999996
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 1.74
+
+Order number: 3
+Customer type: BUSINESS
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > EGG (+sauce)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 43.28
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+topping) (+topping)
+Cost of order: 5.07
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 5.980000000000001
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce)
+Cost of order: 10.620000000000003
+
+Order number: 7
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 6.2200000000000015
+
+Order number: 8
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+topping)
+Cost of order: 10.16
+
+Order number: 9
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 11.920000000000002
+
+Order number: 10
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+filling)
+Cost of order: 7.75
+
+Order number: 11
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 8.41
+
+Order number: 12
+Customer type: CASUAL
+ > SAUSAGE (+filling) (+topping)
+Cost of order: 5.050000000000001
+
+Order number: 13
+Customer type: CATERING
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping)
+ > PASTRY (+sauce)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY
+ > PASTRY (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping)
+ > EGG (+topping)
+ > EGG (+sauce) (+sauce)
+Cost of order: 72.4
+
+Order number: 14
+Customer type: CASUAL
+ > SAUSAGE (+sauce)
+Cost of order: 4.670000000000001
+
+
+DAY SUMMARY
+Payments from customers: 257.11 total
+ > BUSINESS: 43.28
+ > CASUAL: 77.59
+ > CATERING: 136.24
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 58 total
+ > EGG: 16
+ > JELLY: 3
+ > PASTRY: 7
+ > SAUSAGE: 21
+ > SPRING: 11
+Store did not close due to shortage
+EGG rolls left: 12
+JELLY rolls left: 19
+PASTRY rolls left: 7
+SAUSAGE rolls left: 9
+SPRING rolls left: 1
+
+
+ Day 11 ====================================
+============================================
+
+EGG rolls left: 12
+JELLY rolls left: 19
+PASTRY rolls left: 7
+SAUSAGE rolls left: 9
+SPRING rolls left: 1
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce)
+>>> Ran out of roll of type SPRING
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+topping)
+ > EGG (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 56.27
+
+Order number: 2
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 3
+Customer type: CASUAL
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling)
+Cost of order: 10.14
+
+
+DAY SUMMARY
+Payments from customers: 66.41 total
+ > BUSINESS: 0.0
+ > CASUAL: 10.14
+ > CATERING: 56.27
+Roll shortages: 2 total
+ > BUSINESS: 1
+ > CASUAL: 0
+ > CATERING: 1
+Total orders: 17 total
+ > EGG: 5
+ > JELLY: 4
+ > PASTRY: 2
+ > SAUSAGE: 5
+ > SPRING: 1
+Store did not close due to shortage
+EGG rolls left: 7
+JELLY rolls left: 15
+PASTRY rolls left: 5
+SAUSAGE rolls left: 4
+SPRING rolls left: 0
+
+
+ Day 12 ====================================
+============================================
+
+EGG rolls left: 7
+JELLY rolls left: 15
+PASTRY rolls left: 5
+SAUSAGE rolls left: 4
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping)
+Cost of order: 12.57
+
+Order number: 2
+Customer type: CATERING
+ > JELLY (+topping) (+topping)
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type SAUSAGE
+ > EGG (+sauce)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce)
+>>> Ran out of roll of type PASTRY
+Cost of order: 62.70000000000001
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+topping) (+topping)
+ > SPRING (+sauce) (+filling)
+Cost of order: 7.75
+
+Order number: 4
+Customer type: CASUAL
+ > EGG (+sauce) (+topping)
+Cost of order: 2.6900000000000004
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+topping)
+Cost of order: 2.4699999999999998
+
+Order number: 6
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 7
+Customer type: CASUAL
+ > JELLY (+sauce) (+topping)
+ > JELLY (+filling)
+Cost of order: 2.8200000000000003
+
+Order number: 8
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 9
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 6.6800000000000015
+
+Order number: 10
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+filling)
+Cost of order: 3.1900000000000004
+
+Order number: 11
+Customer type: CASUAL
+ > JELLY (+sauce)
+Cost of order: 1.34
+
+
+DAY SUMMARY
+Payments from customers: 102.21000000000001 total
+ > BUSINESS: 0.0
+ > CASUAL: 39.510000000000005
+ > CATERING: 62.70000000000001
+Roll shortages: 7 total
+ > BUSINESS: 2
+ > CASUAL: 4
+ > CATERING: 1
+Total orders: 28 total
+ > EGG: 6
+ > JELLY: 9
+ > PASTRY: 5
+ > SAUSAGE: 4
+ > SPRING: 4
+Store did not close due to shortage
+EGG rolls left: 1
+JELLY rolls left: 6
+PASTRY rolls left: 0
+SAUSAGE rolls left: 0
+SPRING rolls left: 41
+
+
+ Day 13 ====================================
+============================================
+
+EGG rolls left: 1
+JELLY rolls left: 6
+PASTRY rolls left: 45
+SAUSAGE rolls left: 45
+SPRING rolls left: 41
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+filling) (+topping)
+ > SPRING (+topping) (+topping)
+ > SPRING (+sauce)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+filling)
+Cost of order: 63.2
+
+Order number: 2
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 13.629999999999999
+
+Order number: 3
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 6.79
+
+Order number: 4
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+topping) (+topping)
+>>> Ran out of roll of type JELLY
+Cost of order: 1.5299999999999998
+
+Order number: 6
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 14.649999999999999
+
+
+DAY SUMMARY
+Payments from customers: 99.80000000000001 total
+ > BUSINESS: 0.0
+ > CASUAL: 36.599999999999994
+ > CATERING: 63.2
+Roll shortages: 3 total
+ > BUSINESS: 2
+ > CASUAL: 1
+ > CATERING: 0
+Total orders: 21 total
+ > EGG: 0
+ > JELLY: 6
+ > PASTRY: 10
+ > SAUSAGE: 0
+ > SPRING: 5
+Store did not close due to shortage
+EGG rolls left: 1
+JELLY rolls left: 0
+PASTRY rolls left: 35
+SAUSAGE rolls left: 45
+SPRING rolls left: 36
+
+
+ Day 14 ====================================
+============================================
+
+EGG rolls left: 1
+JELLY rolls left: 45
+PASTRY rolls left: 35
+SAUSAGE rolls left: 45
+SPRING rolls left: 36
+
+Order number: 1
+Customer type: CASUAL
+ > JELLY (+filling) (+topping)
+Cost of order: 1.48
+
+Order number: 2
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling) (+topping)
+Cost of order: 4.1899999999999995
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 8.38
+
+Order number: 4
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING
+Cost of order: 7.42
+
+Order number: 5
+Customer type: CASUAL
+ > SPRING (+filling)
+ > SPRING (+sauce) (+sauce) (+topping)
+Cost of order: 7.75
+
+Order number: 6
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+sauce)
+Cost of order: 1.5600000000000003
+
+Order number: 7
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 8
+Customer type: CATERING
+ > JELLY
+ > JELLY
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling)
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+topping)
+ > SAUSAGE (+filling)
+Cost of order: 52.66000000000001
+
+Order number: 9
+Customer type: CASUAL
+ > JELLY (+sauce) (+topping) (+topping)
+Cost of order: 1.64
+
+Order number: 10
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+Cost of order: 9.04
+
+Order number: 11
+Customer type: CATERING
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING
+ > SAUSAGE (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 82.43
+
+
+DAY SUMMARY
+Payments from customers: 176.55 total
+ > BUSINESS: 0.0
+ > CASUAL: 41.459999999999994
+ > CATERING: 135.09000000000003
+Roll shortages: 1 total
+ > BUSINESS: 1
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 42 total
+ > EGG: 0
+ > JELLY: 8
+ > PASTRY: 5
+ > SAUSAGE: 10
+ > SPRING: 19
+Store did not close due to shortage
+EGG rolls left: 1
+JELLY rolls left: 37
+PASTRY rolls left: 30
+SAUSAGE rolls left: 35
+SPRING rolls left: 17
+
+
+ Day 15 ====================================
+============================================
+
+EGG rolls left: 1
+JELLY rolls left: 37
+PASTRY rolls left: 30
+SAUSAGE rolls left: 35
+SPRING rolls left: 17
+
+Order number: 1
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 2
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+sauce)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type EGG
+ > PASTRY (+sauce) (+sauce) (+sauce)
+ > PASTRY (+topping) (+topping)
+Cost of order: 68.52000000000001
+
+Order number: 3
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > SAUSAGE (+filling) (+topping) (+topping)
+Cost of order: 10.96
+
+Order number: 5
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 5.910000000000001
+
+Order number: 6
+Customer type: CATERING
+ > JELLY (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+filling) (+topping)
+ > JELLY
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce)
+ > PASTRY
+Cost of order: 68.81000000000002
+
+
+DAY SUMMARY
+Payments from customers: 154.20000000000005 total
+ > BUSINESS: 0.0
+ > CASUAL: 16.87
+ > CATERING: 137.33000000000004
+Roll shortages: 3 total
+ > BUSINESS: 2
+ > CASUAL: 0
+ > CATERING: 1
+Total orders: 33 total
+ > EGG: 1
+ > JELLY: 7
+ > PASTRY: 7
+ > SAUSAGE: 14
+ > SPRING: 4
+Store did not close due to shortage
+EGG rolls left: 0
+JELLY rolls left: 30
+PASTRY rolls left: 23
+SAUSAGE rolls left: 21
+SPRING rolls left: 13
+
+
+ Day 16 ====================================
+============================================
+
+EGG rolls left: 45
+JELLY rolls left: 30
+PASTRY rolls left: 23
+SAUSAGE rolls left: 21
+SPRING rolls left: 13
+
+Order number: 1
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+topping)
+Cost of order: 6.020000000000001
+
+Order number: 2
+Customer type: CASUAL
+ > SPRING (+filling)
+Cost of order: 3.53
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 4.8500000000000005
+
+Order number: 4
+Customer type: CATERING
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce)
+Cost of order: 57.24
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+sauce)
+Cost of order: 1.34
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling)
+Cost of order: 3.86
+
+Order number: 7
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SAUSAGE
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG
+ > EGG (+sauce) (+topping)
+ > EGG
+Cost of order: 62.010000000000005
+
+Order number: 8
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 3.1500000000000004
+
+Order number: 9
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+Cost of order: 13.54
+
+Order number: 10
+Customer type: CASUAL
+ > JELLY (+filling) (+topping)
+Cost of order: 1.48
+
+Order number: 11
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 3.370000000000001
+
+Order number: 12
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 5.18
+
+Order number: 13
+Customer type: BUSINESS
+ > JELLY (+filling)
+ > JELLY (+filling)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > EGG (+sauce)
+ > EGG (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 42.17
+
+
+DAY SUMMARY
+Payments from customers: 207.74 total
+ > BUSINESS: 42.17
+ > CASUAL: 46.32
+ > CATERING: 119.25
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 52 total
+ > EGG: 16
+ > JELLY: 9
+ > PASTRY: 9
+ > SAUSAGE: 7
+ > SPRING: 11
+Store did not close due to shortage
+EGG rolls left: 29
+JELLY rolls left: 21
+PASTRY rolls left: 14
+SAUSAGE rolls left: 14
+SPRING rolls left: 2
+
+
+ Day 17 ====================================
+============================================
+
+EGG rolls left: 29
+JELLY rolls left: 21
+PASTRY rolls left: 14
+SAUSAGE rolls left: 14
+SPRING rolls left: 2
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce)
+>>> Ran out of roll of type SPRING
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 78.44000000000001
+
+Order number: 2
+Customer type: CATERING
+ > JELLY (+filling)
+ > JELLY (+sauce) (+filling) (+topping)
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 68.00000000000001
+
+Order number: 3
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 7.89
+
+Order number: 4
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type PASTRY
+Cost of order: 8.4
+
+Order number: 5
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+topping) (+topping)
+Cost of order: 5.07
+
+Order number: 7
+Customer type: CASUAL
+ > EGG (+sauce) (+filling)
+Cost of order: 2.6500000000000004
+
+Order number: 8
+Customer type: CASUAL
+ > JELLY (+sauce) (+topping) (+topping)
+ > JELLY (+sauce)
+Cost of order: 2.98
+
+Order number: 9
+Customer type: CASUAL
+ > JELLY
+Cost of order: 1.23
+
+Order number: 10
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce)
+Cost of order: 2.8900000000000006
+
+Order number: 11
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 3.0900000000000007
+
+
+DAY SUMMARY
+Payments from customers: 180.64000000000001 total
+ > BUSINESS: 0.0
+ > CASUAL: 34.2
+ > CATERING: 146.44000000000003
+Roll shortages: 10 total
+ > BUSINESS: 1
+ > CASUAL: 7
+ > CATERING: 2
+Total orders: 39 total
+ > EGG: 10
+ > JELLY: 7
+ > PASTRY: 14
+ > SAUSAGE: 6
+ > SPRING: 2
+Store did not close due to shortage
+EGG rolls left: 19
+JELLY rolls left: 14
+PASTRY rolls left: 0
+SAUSAGE rolls left: 8
+SPRING rolls left: 0
+
+
+ Day 18 ====================================
+============================================
+
+EGG rolls left: 19
+JELLY rolls left: 14
+PASTRY rolls left: 45
+SAUSAGE rolls left: 8
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: CASUAL
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+Cost of order: 10.580000000000002
+
+Order number: 2
+Customer type: CATERING
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+filling)
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+ > PASTRY (+topping)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 67.06
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 8.379999999999999
+
+Order number: 4
+Customer type: CATERING
+ > JELLY (+sauce) (+filling)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+>>> Ran out of roll of type SAUSAGE
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce)
+ > EGG (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping) (+topping)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 76.78
+
+Order number: 5
+Customer type: CASUAL
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+filling) (+topping)
+Cost of order: 8.049999999999999
+
+Order number: 6
+Customer type: CASUAL
+ > JELLY (+filling) (+topping)
+Cost of order: 1.48
+
+Order number: 7
+Customer type: CASUAL
+ > JELLY (+sauce)
+ > JELLY (+sauce) (+topping)
+Cost of order: 2.83
+
+Order number: 8
+Customer type: CASUAL
+ > JELLY (+filling)
+Cost of order: 1.33
+
+Order number: 9
+Customer type: CASUAL
+ > PASTRY (+sauce)
+ > PASTRY (+sauce)
+Cost of order: 11.56
+
+Order number: 10
+Customer type: CASUAL
+ > SPRING (+sauce) (+topping)
+Cost of order: 3.89
+
+Order number: 11
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 12
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 4.55
+
+
+DAY SUMMARY
+Payments from customers: 196.49000000000004 total
+ > BUSINESS: 0.0
+ > CASUAL: 52.65
+ > CATERING: 143.84
+Roll shortages: 4 total
+ > BUSINESS: 1
+ > CASUAL: 2
+ > CATERING: 1
+Total orders: 44 total
+ > EGG: 3
+ > JELLY: 10
+ > PASTRY: 14
+ > SAUSAGE: 8
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 16
+JELLY rolls left: 4
+PASTRY rolls left: 31
+SAUSAGE rolls left: 0
+SPRING rolls left: 36
+
+
+ Day 19 ====================================
+============================================
+
+EGG rolls left: 16
+JELLY rolls left: 4
+PASTRY rolls left: 31
+SAUSAGE rolls left: 45
+SPRING rolls left: 36
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce)
+Cost of order: 61.97
+
+Order number: 2
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling) (+topping)
+Cost of order: 4.1899999999999995
+
+Order number: 4
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 8.71
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+topping)
+Cost of order: 2.4699999999999998
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 11.420000000000002
+
+Order number: 7
+Customer type: CASUAL
+ > JELLY (+sauce)
+>>> Ran out of roll of type JELLY
+Cost of order: 1.34
+
+Order number: 8
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce)
+Cost of order: 3.89
+
+Order number: 9
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+Cost of order: 5.800000000000001
+
+Order number: 10
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+Cost of order: 8.739999999999998
+
+Order number: 11
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 12
+Customer type: CASUAL
+ > EGG (+filling)
+ > EGG (+sauce) (+filling) (+topping)
+Cost of order: 5.32
+
+
+DAY SUMMARY
+Payments from customers: 113.85 total
+ > BUSINESS: 0.0
+ > CASUAL: 51.88
+ > CATERING: 61.97
+Roll shortages: 4 total
+ > BUSINESS: 2
+ > CASUAL: 1
+ > CATERING: 1
+Total orders: 29 total
+ > EGG: 8
+ > JELLY: 4
+ > PASTRY: 2
+ > SAUSAGE: 6
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 8
+JELLY rolls left: 0
+PASTRY rolls left: 29
+SAUSAGE rolls left: 39
+SPRING rolls left: 27
+
+
+ Day 20 ====================================
+============================================
+
+EGG rolls left: 8
+JELLY rolls left: 45
+PASTRY rolls left: 29
+SAUSAGE rolls left: 39
+SPRING rolls left: 27
+
+Order number: 1
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 4.55
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 1.85
+
+Order number: 3
+Customer type: CATERING
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 85.46000000000001
+
+Order number: 4
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce)
+Cost of order: 14.219999999999999
+
+Order number: 5
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+filling)
+ > PASTRY (+topping)
+ > PASTRY (+sauce)
+Cost of order: 41.67
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+filling) (+topping)
+Cost of order: 8.379999999999999
+
+Order number: 7
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 9.399999999999999
+
+Order number: 8
+Customer type: CASUAL
+ > SPRING (+topping)
+Cost of order: 3.56
+
+Order number: 9
+Customer type: CASUAL
+ > EGG
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 5.360000000000001
+
+Order number: 10
+Customer type: CATERING
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+filling)
+>>> Ran out of roll of type EGG
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+filling) (+topping)
+Cost of order: 60.03000000000001
+
+
+DAY SUMMARY
+Payments from customers: 234.48000000000002 total
+ > BUSINESS: 41.67
+ > CASUAL: 47.31999999999999
+ > CATERING: 145.49
+Roll shortages: 1 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 1
+Total orders: 51 total
+ > EGG: 8
+ > JELLY: 7
+ > PASTRY: 11
+ > SAUSAGE: 12
+ > SPRING: 13
+Store did not close due to shortage
+EGG rolls left: 0
+JELLY rolls left: 38
+PASTRY rolls left: 18
+SAUSAGE rolls left: 27
+SPRING rolls left: 14
+
+
+ Day 21 ====================================
+============================================
+
+EGG rolls left: 45
+JELLY rolls left: 38
+PASTRY rolls left: 18
+SAUSAGE rolls left: 27
+SPRING rolls left: 14
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+topping)
+ > JELLY (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+Cost of order: 56.50000000000001
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce)
+Cost of order: 2.8900000000000006
+
+Order number: 3
+Customer type: CATERING
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+topping)
+ > PASTRY (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+filling) (+topping)
+Cost of order: 78.30000000000001
+
+Order number: 4
+Customer type: BUSINESS
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > SPRING (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce)
+Cost of order: 43.650000000000006
+
+Order number: 5
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 4.88
+
+Order number: 6
+Customer type: BUSINESS
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+topping)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+sauce)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 42.49
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce)
+Cost of order: 6.33
+
+
+DAY SUMMARY
+Payments from customers: 235.04000000000005 total
+ > BUSINESS: 86.14000000000001
+ > CASUAL: 14.100000000000001
+ > CATERING: 134.8
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 54 total
+ > EGG: 9
+ > JELLY: 11
+ > PASTRY: 10
+ > SAUSAGE: 14
+ > SPRING: 10
+Store did not close due to shortage
+EGG rolls left: 36
+JELLY rolls left: 27
+PASTRY rolls left: 8
+SAUSAGE rolls left: 13
+SPRING rolls left: 4
+
+
+ Day 22 ====================================
+============================================
+
+EGG rolls left: 36
+JELLY rolls left: 27
+PASTRY rolls left: 8
+SAUSAGE rolls left: 13
+SPRING rolls left: 4
+
+Order number: 1
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+filling)
+ > EGG (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+filling)
+Cost of order: 40.290000000000006
+
+Order number: 2
+Customer type: CASUAL
+ > EGG (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 5.800000000000001
+
+Order number: 3
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+topping)
+Cost of order: 13.64
+
+Order number: 4
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 13.64
+
+Order number: 5
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 11.480000000000004
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type SPRING
+Cost of order: 8.41
+
+Order number: 7
+Customer type: CATERING
+ > JELLY (+sauce)
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+filling)
+ > PASTRY (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+filling)
+>>> Ran out of roll of type PASTRY
+Cost of order: 55.81000000000001
+
+
+DAY SUMMARY
+Payments from customers: 149.07000000000002 total
+ > BUSINESS: 40.290000000000006
+ > CASUAL: 52.97
+ > CATERING: 55.81000000000001
+Roll shortages: 1 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 1
+Total orders: 35 total
+ > EGG: 8
+ > JELLY: 7
+ > PASTRY: 8
+ > SAUSAGE: 8
+ > SPRING: 4
+Store did not close due to shortage
+EGG rolls left: 28
+JELLY rolls left: 20
+PASTRY rolls left: 0
+SAUSAGE rolls left: 5
+SPRING rolls left: 0
+
+
+ Day 23 ====================================
+============================================
+
+EGG rolls left: 28
+JELLY rolls left: 20
+PASTRY rolls left: 45
+SAUSAGE rolls left: 5
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: CASUAL
+ > EGG
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 5.360000000000001
+
+Order number: 2
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce)
+Cost of order: 2.6700000000000004
+
+Order number: 3
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+Cost of order: 5.530000000000001
+
+Order number: 4
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE
+ > EGG (+sauce)
+ > EGG (+sauce) (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 44.15
+
+Order number: 5
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 1.75
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type SAUSAGE
+Cost of order: 11.460000000000003
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 13.629999999999999
+
+Order number: 8
+Customer type: CASUAL
+ > PASTRY
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 13.129999999999999
+
+Order number: 9
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 8.71
+
+Order number: 10
+Customer type: CATERING
+ > JELLY (+sauce)
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SPRING (+topping) (+topping)
+ > EGG (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+filling)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 63.080000000000005
+
+Order number: 11
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 12
+Customer type: CASUAL
+ > PASTRY (+filling) (+topping) (+topping)
+Cost of order: 6.75
+
+Order number: 13
+Customer type: CASUAL
+ > EGG (+filling)
+Cost of order: 2.43
+
+Order number: 14
+Customer type: CASUAL
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 13.09
+
+
+DAY SUMMARY
+Payments from customers: 191.74 total
+ > BUSINESS: 44.15
+ > CASUAL: 84.51000000000002
+ > CATERING: 63.080000000000005
+Roll shortages: 3 total
+ > BUSINESS: 1
+ > CASUAL: 1
+ > CATERING: 1
+Total orders: 42 total
+ > EGG: 9
+ > JELLY: 6
+ > PASTRY: 13
+ > SAUSAGE: 5
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 19
+JELLY rolls left: 14
+PASTRY rolls left: 32
+SAUSAGE rolls left: 0
+SPRING rolls left: 36
+
+
+ Day 24 ====================================
+============================================
+
+EGG rolls left: 19
+JELLY rolls left: 14
+PASTRY rolls left: 32
+SAUSAGE rolls left: 45
+SPRING rolls left: 36
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 13.07
+
+Order number: 2
+Customer type: CASUAL
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+Cost of order: 3.29
+
+Order number: 3
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 4.55
+
+Order number: 4
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+topping)
+Cost of order: 2.91
+
+Order number: 5
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+filling)
+ > SAUSAGE (+sauce) (+topping)
+ > SAUSAGE (+topping)
+ > EGG
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+topping) (+topping)
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 40.15
+
+Order number: 6
+Customer type: CATERING
+ > SAUSAGE (+filling)
+ > SAUSAGE (+filling)
+ > SAUSAGE (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 80.25000000000001
+
+Order number: 7
+Customer type: CASUAL
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 6.020000000000001
+
+Order number: 8
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+Cost of order: 6.3900000000000015
+
+Order number: 9
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce) (+filling)
+Cost of order: 1.5500000000000003
+
+Order number: 10
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 7.34
+
+Order number: 11
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 4.55
+
+Order number: 12
+Customer type: CASUAL
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 1.74
+
+Order number: 13
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+topping)
+ > JELLY
+ > JELLY (+sauce) (+topping)
+ > JELLY (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+filling)
+ > SPRING (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE
+ > SAUSAGE (+topping)
+ > SAUSAGE
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+Cost of order: 51.95
+
+Order number: 14
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 3.130000000000001
+
+
+DAY SUMMARY
+Payments from customers: 226.8900000000001 total
+ > BUSINESS: 40.15
+ > CASUAL: 54.540000000000006
+ > CATERING: 132.20000000000002
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 54 total
+ > EGG: 11
+ > JELLY: 11
+ > PASTRY: 10
+ > SAUSAGE: 13
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 8
+JELLY rolls left: 3
+PASTRY rolls left: 22
+SAUSAGE rolls left: 32
+SPRING rolls left: 27
+
+
+ Day 25 ====================================
+============================================
+
+EGG rolls left: 8
+JELLY rolls left: 3
+PASTRY rolls left: 22
+SAUSAGE rolls left: 32
+SPRING rolls left: 27
+
+Order number: 1
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce)
+>>> Ran out of roll of type JELLY
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+topping)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+topping)
+ > EGG (+sauce)
+ > EGG (+filling) (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY
+Cost of order: 54.84
+
+Order number: 2
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+filling) (+topping)
+Cost of order: 13.54
+
+Order number: 3
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+topping)
+Cost of order: 2.91
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+topping)
+ > SAUSAGE (+sauce)
+Cost of order: 9.32
+
+Order number: 5
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 4.5200000000000005
+
+Order number: 6
+Customer type: CASUAL
+ > PASTRY (+filling) (+topping)
+Cost of order: 6.24
+
+Order number: 7
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 5.910000000000001
+
+Order number: 8
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 9
+Customer type: CATERING
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+sauce)
+ > EGG (+filling)
+>>> Ran out of roll of type EGG
+ > PASTRY (+filling)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+topping)
+Cost of order: 76.68
+
+
+DAY SUMMARY
+Payments from customers: 173.95999999999998 total
+ > BUSINESS: 0.0
+ > CASUAL: 42.440000000000005
+ > CATERING: 131.52
+Roll shortages: 4 total
+ > BUSINESS: 1
+ > CASUAL: 1
+ > CATERING: 2
+Total orders: 38 total
+ > EGG: 8
+ > JELLY: 3
+ > PASTRY: 9
+ > SAUSAGE: 10
+ > SPRING: 8
+Store did not close due to shortage
+EGG rolls left: 0
+JELLY rolls left: 0
+PASTRY rolls left: 13
+SAUSAGE rolls left: 22
+SPRING rolls left: 19
+
+
+ Day 26 ====================================
+============================================
+
+EGG rolls left: 45
+JELLY rolls left: 45
+PASTRY rolls left: 13
+SAUSAGE rolls left: 22
+SPRING rolls left: 19
+
+Order number: 1
+Customer type: CASUAL
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 9.07
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SPRING (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+Cost of order: 44.330000000000005
+
+Order number: 3
+Customer type: CASUAL
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+filling) (+topping)
+Cost of order: 12.530000000000001
+
+Order number: 4
+Customer type: CASUAL
+ > EGG (+sauce) (+topping) (+topping)
+Cost of order: 2.9300000000000006
+
+Order number: 5
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+filling) (+topping)
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG (+sauce) (+filling) (+topping)
+ > EGG (+sauce)
+ > EGG (+filling) (+topping)
+Cost of order: 49.37000000000001
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 12.700000000000003
+
+Order number: 7
+Customer type: BUSINESS
+ > JELLY (+filling) (+topping)
+ > JELLY (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+topping)
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+filling)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+filling) (+topping)
+Cost of order: 40.410000000000004
+
+
+DAY SUMMARY
+Payments from customers: 171.34 total
+ > BUSINESS: 84.74000000000001
+ > CASUAL: 37.230000000000004
+ > CATERING: 49.37000000000001
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 42 total
+ > EGG: 10
+ > JELLY: 9
+ > PASTRY: 6
+ > SAUSAGE: 11
+ > SPRING: 6
+Store did not close due to shortage
+EGG rolls left: 35
+JELLY rolls left: 36
+PASTRY rolls left: 7
+SAUSAGE rolls left: 11
+SPRING rolls left: 13
+
+
+ Day 27 ====================================
+============================================
+
+EGG rolls left: 35
+JELLY rolls left: 36
+PASTRY rolls left: 7
+SAUSAGE rolls left: 11
+SPRING rolls left: 13
+
+Order number: 1
+Customer type: BUSINESS
+ > JELLY (+topping)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+filling) (+topping) (+topping)
+ > PASTRY
+ > PASTRY (+topping) (+topping)
+Cost of order: 39.010000000000005
+
+Order number: 2
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+Cost of order: 5.550000000000002
+
+Order number: 3
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 6.83
+
+Order number: 4
+Customer type: CATERING
+ > JELLY (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce)
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+topping) (+topping)
+ > EGG (+filling)
+ > EGG (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce)
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > PASTRY (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+Cost of order: 46.60000000000001
+
+Order number: 5
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+Cost of order: 7.38
+
+Order number: 6
+Customer type: CASUAL
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling)
+Cost of order: 10.980000000000002
+
+Order number: 7
+Customer type: CATERING
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > SPRING (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+topping) (+topping)
+ > SAUSAGE
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+>>> Ran out of roll of type SAUSAGE
+ > EGG (+sauce) (+filling) (+topping)
+ > EGG (+sauce) (+filling)
+ > EGG
+ > PASTRY (+sauce) (+filling) (+topping)
+>>> Ran out of roll of type PASTRY
+Cost of order: 56.1
+
+Order number: 8
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 5.18
+
+Order number: 9
+Customer type: CASUAL
+ > JELLY (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+Cost of order: 3.18
+
+
+DAY SUMMARY
+Payments from customers: 180.81000000000003 total
+ > BUSINESS: 39.010000000000005
+ > CASUAL: 39.1
+ > CATERING: 102.70000000000002
+Roll shortages: 2 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 2
+Total orders: 48 total
+ > EGG: 9
+ > JELLY: 14
+ > PASTRY: 7
+ > SAUSAGE: 11
+ > SPRING: 7
+Store did not close due to shortage
+EGG rolls left: 26
+JELLY rolls left: 22
+PASTRY rolls left: 0
+SAUSAGE rolls left: 0
+SPRING rolls left: 6
+
+
+ Day 28 ====================================
+============================================
+
+EGG rolls left: 26
+JELLY rolls left: 22
+PASTRY rolls left: 45
+SAUSAGE rolls left: 45
+SPRING rolls left: 6
+
+Order number: 1
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+Cost of order: 4.19
+
+Order number: 2
+Customer type: CASUAL
+ > EGG (+topping) (+topping)
+Cost of order: 2.71
+
+Order number: 3
+Customer type: CATERING
+ > SPRING (+sauce) (+filling)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+>>> Ran out of roll of type SPRING
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling)
+ > SAUSAGE (+topping) (+topping)
+ > SAUSAGE (+filling) (+topping) (+topping)
+ > PASTRY
+ > PASTRY (+filling)
+ > PASTRY
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+Cost of order: 77.51
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+topping) (+topping)
+Cost of order: 11.040000000000003
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+filling) (+topping)
+Cost of order: 2.67
+
+Order number: 6
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 7
+Customer type: BUSINESS
+Cost of order: 0.0
+
+Order number: 8
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+filling) (+topping)
+ > EGG (+filling) (+topping) (+topping)
+Cost of order: 6.0200000000000005
+
+Order number: 9
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling)
+Cost of order: 53.75000000000001
+
+Order number: 10
+Customer type: CASUAL
+ > JELLY (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 3.1500000000000004
+
+
+DAY SUMMARY
+Payments from customers: 161.04000000000002 total
+ > BUSINESS: 0.0
+ > CASUAL: 29.78000000000001
+ > CATERING: 131.26000000000002
+Roll shortages: 5 total
+ > BUSINESS: 2
+ > CASUAL: 2
+ > CATERING: 1
+Total orders: 39 total
+ > EGG: 11
+ > JELLY: 6
+ > PASTRY: 7
+ > SAUSAGE: 9
+ > SPRING: 6
+Store did not close due to shortage
+EGG rolls left: 15
+JELLY rolls left: 16
+PASTRY rolls left: 38
+SAUSAGE rolls left: 36
+SPRING rolls left: 0
+
+
+ Day 29 ====================================
+============================================
+
+EGG rolls left: 15
+JELLY rolls left: 16
+PASTRY rolls left: 38
+SAUSAGE rolls left: 36
+SPRING rolls left: 45
+
+Order number: 1
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+filling)
+ > EGG (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+Cost of order: 44.50000000000001
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+topping) (+topping)
+ > SPRING (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+topping)
+ > SAUSAGE (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > PASTRY (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+filling) (+topping)
+Cost of order: 42.980000000000004
+
+Order number: 3
+Customer type: CATERING
+ > JELLY (+sauce) (+sauce) (+sauce) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY
+ > JELLY (+sauce) (+sauce) (+filling)
+ > JELLY (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping)
+ > SAUSAGE (+sauce)
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+sauce)
+ > SAUSAGE (+sauce) (+filling)
+ > EGG (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+filling)
+ > EGG (+sauce) (+topping) (+topping)
+ > EGG (+filling) (+topping)
+Cost of order: 50.110000000000014
+
+Order number: 4
+Customer type: CASUAL
+ > SAUSAGE (+sauce) (+sauce) (+sauce) (+topping)
+Cost of order: 5.9700000000000015
+
+Order number: 5
+Customer type: CASUAL
+ > PASTRY (+sauce) (+filling)
+Cost of order: 6.28
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+ > SPRING (+sauce) (+sauce) (+sauce)
+Cost of order: 8.739999999999998
+
+Order number: 7
+Customer type: CASUAL
+ > PASTRY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > PASTRY (+sauce) (+sauce) (+topping)
+Cost of order: 15.24
+
+Order number: 8
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+filling)
+Cost of order: 4.19
+
+Order number: 9
+Customer type: CASUAL
+ > SPRING (+sauce) (+filling)
+ > SPRING
+Cost of order: 7.09
+
+
+DAY SUMMARY
+Payments from customers: 185.10000000000005 total
+ > BUSINESS: 87.48000000000002
+ > CASUAL: 47.510000000000005
+ > CATERING: 50.110000000000014
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 44 total
+ > EGG: 9
+ > JELLY: 9
+ > PASTRY: 7
+ > SAUSAGE: 10
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 6
+JELLY rolls left: 7
+PASTRY rolls left: 31
+SAUSAGE rolls left: 26
+SPRING rolls left: 36
+
+
+ Day 30 ====================================
+============================================
+
+EGG rolls left: 6
+JELLY rolls left: 7
+PASTRY rolls left: 31
+SAUSAGE rolls left: 26
+SPRING rolls left: 36
+
+Order number: 1
+Customer type: CASUAL
+ > PASTRY (+filling)
+ > PASTRY (+filling) (+topping)
+Cost of order: 11.97
+
+Order number: 2
+Customer type: BUSINESS
+ > JELLY (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce)
+ > SPRING (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > SPRING (+filling) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+topping) (+topping)
+ > SAUSAGE (+sauce) (+filling) (+topping) (+topping)
+ > EGG (+sauce) (+sauce) (+sauce) (+topping)
+ > EGG (+sauce) (+topping)
+ > PASTRY (+sauce) (+sauce) (+sauce) (+topping)
+ > PASTRY (+filling) (+topping)
+Cost of order: 43.24
+
+Order number: 3
+Customer type: CASUAL
+ > EGG (+sauce) (+sauce) (+sauce) (+topping) (+topping)
+ > EGG (+sauce) (+topping)
+Cost of order: 6.060000000000001
+
+Order number: 4
+Customer type: CATERING
+ > JELLY (+sauce) (+filling)
+ > JELLY (+sauce) (+topping) (+topping)
+ > JELLY (+sauce) (+sauce) (+filling) (+topping)
+ > JELLY (+sauce) (+sauce) (+sauce)
+ > JELLY (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+>>> Ran out of roll of type JELLY
+ > SPRING (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+topping)
+ > SPRING (+topping)
+ > SPRING (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling)
+ > PASTRY (+topping)
+ > PASTRY (+filling) (+topping)
+ > PASTRY (+filling)
+ > PASTRY (+sauce) (+filling)
+ > PASTRY (+sauce) (+topping) (+topping)
+Cost of order: 59.17
+
+Order number: 5
+Customer type: CASUAL
+ > EGG (+filling) (+topping)
+Cost of order: 2.67
+
+Order number: 6
+Customer type: CASUAL
+ > SPRING (+sauce) (+sauce) (+sauce) (+filling) (+topping) (+topping)
+ > SPRING (+sauce) (+sauce) (+sauce)
+Cost of order: 9.399999999999999
+
+
+DAY SUMMARY
+Payments from customers: 132.51 total
+ > BUSINESS: 43.24
+ > CASUAL: 30.1
+ > CATERING: 59.17
+Roll shortages: 0 total
+ > BUSINESS: 0
+ > CASUAL: 0
+ > CATERING: 0
+Total orders: 32 total
+ > EGG: 5
+ > JELLY: 7
+ > PASTRY: 9
+ > SAUSAGE: 2
+ > SPRING: 9
+Store did not close due to shortage
+EGG rolls left: 1
+JELLY rolls left: 0
+PASTRY rolls left: 22
+SAUSAGE rolls left: 24
+SPRING rolls left: 27
+
+======================================================
+MONTH STATS
+Rolls sold: 1186 total
+ > EGG: 224
+ > JELLY: 225
+ > PASTRY: 248
+ > SAUSAGE: 246
+ > SPRING: 243
+Total money: 5059.680000000002
+Total shortage impacts: 56
